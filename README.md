@@ -45,7 +45,11 @@ Well, here would be my process flow if I was doing this project.
 3. Have the client request the data and retrieve it from the database
 4. Rinse and Repeat
 
-So how could you do this? Glad you asked.
+If you want an example with a very basic implementation of the idea above then take a look [here](https://github.com/jhorwit2/plugfest_information/wiki/Example) or take a peep at the source code in this repo.
 
-**Lets start with the script to retrieve data**
 
+### So what would be some useful libraries to help me do stuff?
+
+//TODO: Add nodejs, django & ruby on rails for web frameworks
+// Add bootstrap, jquery, d3 and chartjs for client side.
+// Brief intro to websockets and point to documentation.
