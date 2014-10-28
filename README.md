@@ -49,3 +49,5 @@ Well, here would be my process flow if I was doing this project.
 
 #### [Example](https://github.com/jhorwit2/plugfest_information/wiki/Example)
 
+### Links
+[D3 Playground](http://phrogz.net/js/d3-playground/#BlankDefault)
