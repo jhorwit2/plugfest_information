@@ -6,6 +6,13 @@ Information about PlugFest
 
 The data that ThreatStop is providing us will be in JSON format that can be retrieved from a public url. Here is a quick few examples about how you could retrieve this information:
 
+```
+{
+    "hi': 'fpp',
+    'boo': {
+        'hi': 1
+    }
+}
 **Python**
 ```python
 import requests
