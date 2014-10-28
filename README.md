@@ -45,11 +45,7 @@ Well, here would be my process flow if I was doing this project.
 3. Have the client request the data and retrieve it from the database
 4. Rinse and Repeat
 
-If you want an example with a very basic implementation of the idea above then take a look [here](https://github.com/jhorwit2/plugfest_information/wiki/Example) or take a peep at the source code in this repo.
+* If you want to get super fancy, you could immediately push the data to the server which then knows to send the data to all connected clients. (take a look at the websocket link below). If you want to know more about this or other options, then let me know!
 
+#### [Example](https://github.com/jhorwit2/plugfest_information/wiki/Example)
 
-### So what would be some useful libraries to help me do stuff?
-
-//TODO: Add nodejs, django & ruby on rails for web frameworks
-// Add bootstrap, jquery, d3 and chartjs for client side.
-// Brief intro to websockets and point to documentation.
